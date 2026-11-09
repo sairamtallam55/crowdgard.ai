@@ -1,0 +1,6 @@
+{
+  "name": "CrowdGuard AI",
+  "description": "AI-Powered Real-Time Crowd Monitoring and Congestion Management Platform for Godavari Pushkaralu 2027 (Rajamahendravaram Municipal Corporation & Ratan Tata Innovation Hub)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
